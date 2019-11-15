@@ -10,3 +10,6 @@ env
 launch.json
 tasks.json
 data.json
+.boto
+.vscode/
+beesenv/
